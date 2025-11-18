@@ -17,7 +17,9 @@ Alle Energie, einschließlich der in der Bioenergetik gebrauchten Energie, wird 
 
 ## Zustandsänderungen
 
-Bevor wir loslegen sollten wir noch eine Sache klären. In der Thermodynamik vergleichen wir oft Zustände von Materie und Energie miteinander. Wenn wir zum Beispiel einen **Anfangszustand** mit einem **Endzustand** vergleichen, dann interessiert uns oft der Unterschied einer bestimmten Größe, die sich zwischen diesen Punkten ändert; zum Beispiel der Druck, das Volumen, oder irgendeine Form von Energie.
+Bevor wir loslegen sollten wir noch eine Sache klären. In der Thermodynamik betrachten wir oft Zustände und Zustandsänderungen von Materie und Energie. Wenn wir zum Beispiel einen **Anfangszustand** mit einem **Endzustand** vergleichen, dann interessiert uns oft der Unterschied einer bestimmten Größe, die sich zwischen diesen Punkten ändert. 
+
+Eine materielle Änderung ist zum Beispiel eine Änderung des Drucks, des Volumens, der Temperatur usw. Ein energetische Zustandsänderung kann die mechanische Arbeit oder Wärmeentwicklung sein.
 
 ### Dieses komische $\Delta$ 
 
