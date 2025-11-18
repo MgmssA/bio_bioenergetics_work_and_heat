@@ -235,12 +235,7 @@ $$
 Nun setzen wir alles in @eq-work ein:
 
 $$
-\begin{split}
-W &= -F \Delta s \\
-    &= -F\sub{g} \Delta h \\
-    &= -657\;\newton \cdot 3\;\meter \\
-    &= -1971\;\joule
-\end{split}
+W = -F \Delta s = -F\sub{g} \Delta h = -657\;\newton \cdot 3\;\meter = -1971\;\joule
 $$
 
 Wir haben gesagt, dass das Minuszeichen in @eq-work die Arbeit auf Dich bezieht. Wenn Du also hochsteigst, dann musst Du diese Arbeit aufbringen. Das bedeutet, sie geht Dir verloren und deswegen Minus.
@@ -398,7 +393,7 @@ Wenn die Temperatur steigt, nimmt bei Gasen die Fluggeschwindigkeit der Teilchen
 
 :::
 
-Du kannst unmöglich die Geschwidnigkeit aller Teilchen oder deren Vibration messen. Zwar gibt es dafür theoretische Werkzeuge als auch Messverfahren, aber für viele Zwecke ist das Overkill. Was Du wissen musst ist, dass der Austausch von Wärmeenergie immer zu Temepraturänderungen führt. 
+Du kannst unmöglich die Geschwindigkeit aller Teilchen oder deren Vibration messen. Zwar gibt es dafür theoretische Werkzeuge als auch Messverfahren, aber für viele Zwecke ist das Overkill. Was Du wissen musst ist, dass der Austausch von Wärmeenergie immer zu Temepraturänderungen führt. 
 
 Wenn Du einen Stoff oder ein Objekt von der Anfangstemperatur $T\sub{Anfang}$ auf die Endtemperatur $T\sub{Ende}$ erwärmen willst, dann brauchst Du die Wärmeenergie
 
