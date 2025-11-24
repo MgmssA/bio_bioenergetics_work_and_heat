@@ -400,7 +400,7 @@ Du kannst unmöglich die Geschwindigkeit aller Teilchen oder deren Vibration mes
 Wenn Du einen Stoff oder ein Objekt von der Anfangstemperatur $T\sub{Anfang}$ auf die Endtemperatur $T\sub{Ende}$ erwärmen willst, dann brauchst Du die Wärmeenergie
 
 $$
-Q = C \Delta T.
+Q = C_p \Delta T.
 $$ {#eq-heat}
 
 Diese muss in den Stoff oder in das Objekt eingebracht werden. Dabei ist $C\sub{p}$ die Wärmekapazität mit der Einheit Joule pro Kelvin^[Kelvin ist die absolute Temperaturskala, die in Naturwissenschaft und Technik verwendet wird. Ein Grad Kelvin entspricht genau einem Grad Celsius. Aber die Kelvinskala legt Null Grad Kelvin am absoluten Nullpunkt fest. Dagegen legt die Celsiusskala den Nullpunkt am Gefrierpunkt des Wassers auf der Erde fest.] $[\jouleperkelvin]$. Die Wärmekapazität sagt etwas darüber aus, wie viel Wärmeenergie notwendig ist, um das gesamte System oder den gesamten vorliegenden Stoff zu erwärmen oder abzukühlen.
