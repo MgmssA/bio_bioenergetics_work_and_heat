@@ -395,7 +395,7 @@ Wenn die Temperatur steigt, nimmt bei Gasen die Fluggeschwindigkeit der Teilchen
 
 :::
 
-Du kannst unmöglich die Geschwindigkeit aller Teilchen oder deren Vibration messen. Zwar gibt es dafür theoretische Werkzeuge als auch Messverfahren, aber für viele Zwecke ist das Overkill. Was Du wissen musst ist, dass der Austausch von Wärmeenergie immer zu Temepraturänderungen führt. 
+Du kannst unmöglich die Geschwindigkeit aller Teilchen oder deren Vibration messen. Zwar gibt es dafür theoretische Werkzeuge als auch Messverfahren, aber für viele Zwecke ist das Overkill. Was Du wissen musst ist, dass der Austausch von Wärmeenergie immer zu Temperaturänderungen führt. 
 
 Wenn Du einen Stoff oder ein Objekt von der Anfangstemperatur $T\sub{Anfang}$ auf die Endtemperatur $T\sub{Ende}$ erwärmen willst, dann brauchst Du die Wärmeenergie
 
