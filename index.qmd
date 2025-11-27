@@ -383,7 +383,7 @@ Oha, jetzt ist die Arbeit positiv und kommt Dir als System zugute. Das bedeutet 
  
 ## Wärmeenergie
 
-Wenn Wärmeenergie in einem geschlossenem System eingeleitet wird, dann führt es zur Erwärmung des Systems. Gleichzeitig wird es in der Umgebung des Systems kalt. Eine solche Reaktion nennen wir **endotherm**. Wenn ein System aber Energie abgibt, dann kühlt es ab. Die abgegeben Energie fließt in die Umgebung wo es wärmer wird. Solche Reaktionen nennen wir **endotherm**.
+Wenn Wärmeenergie in einem System eingeleitet wird, dann führt es zur Erwärmung des Systems. Gleichzeitig wird es in der Umgebung des Systems kalt. Eine solche Reaktion nennen wir **endotherm**. Wenn ein System aber Energie abgibt, dann kühlt es selber ab. Die abgegeben Energie fließt in die Umgebung wo es wärmer wird. Solche Reaktionen nennen wir **exotherm** (Danke Paul!).
 
 ### Wie wird Wärmeenergie genutzt?
 
