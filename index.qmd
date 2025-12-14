@@ -415,9 +415,9 @@ Diese muss in den Stoff oder in das Objekt eingebracht werden. Dabei ist $C\sub{
 
 Bei gleichförmigen^[Ein gleichförmiger Stoff oder ein gleichförmiges Objekt sind überall innerhalb ihrer Volumina gleich aufgebaut und geschaffen.] Stoffen und Objekten lässt sich die Wärmekapazität praktischerweise auf Masse oder Stoffmenge beziehen.
 
-- $C_{p,m}$ ist die spezifische Wärmekapazität bei konstantem Druck. Sie hat die Einheit $[\jouleperkilogramperkelvin]$. Um die gesamte Wärmekapazität zu bestimmen muss mit der Masse $m$ multipliziert werden $C_p = m C_{p,m}$
+- $C_{p,m}$ ist die spezifische Wärmekapazität bei konstantem Druck. Sie hat die Einheit $[\jouleperkilogramperkelvin]$. Um die gesamte Wärmekapazität zu bestimmen muss mit der Masse $m$ multipliziert werden $C_p = m \cdot C_{p,m}$
 
-- $C_{p,n}$ ist die molare Wärmekapazität und besitzt die Einheit $[\joulepermoleperkelvin]$. Die gesamte Wärmekapazität ist dann das Produkt aus Stoffmenge $n$ und molarer Wärmekapazität $C_p = n C_{p,n}$.
+- $C_{p,n}$ ist die molare Wärmekapazität und besitzt die Einheit $[\joulepermoleperkelvin]$. Die gesamte Wärmekapazität ist dann das Produkt aus Stoffmenge $n$ und molarer Wärmekapazität $C_p = n \cdot C_{p,n}$.
 
 ::: {.callout-warning title="Schau Dir dieses Beispiel mal an, um Wärme zu verstehen." collapse="true"}
 
